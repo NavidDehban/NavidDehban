@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Data scientist!</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/NavidDehban](https://github.com/NavidDehban)
+- All of my projects are available at [https://github.com/NavidDehban](https://github.com/NavidDehban)
 
-- 📫 How to reach me **naviddhn@gmail.com**
+- How to reach me **naviddhn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
